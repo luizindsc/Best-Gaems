@@ -1,0 +1,61 @@
+.title {
+    text-align: center;
+    color: #F0EFEF;
+}
+body {
+    background-color: #2B2A29;
+}
+h2 {
+    font-size: 2m;
+    color: #cd5700;
+}
+.content {
+    margin-right: 25%;
+    padding-left: 400px;
+    margin-right: 25%;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color:whitesmoke
+}
+.title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    padding-left: 400px;
+    text-align: left;
+    font-style: initial;
+    color: #cd5700;
+}
+#resumo {
+    color: whitesmoke;
+    padding-left: 400px;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+#mhw {
+    border-radius: 5px;
+}
+#games {
+    height: 433px;
+    width: 770px;
+    padding-left: 400px;
+    border-radius: 5px;
+}
+#intro {
+    color: whitesmoke;
+    padding-left: 400px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-right: 25%
+}
+#mhr {
+    height: 433px;
+    border-radius: 5px;
+}
+#elden {
+    height: 433px;
+    border-radius: 5px;
+}
+#zelda {
+    height: 433px;
+    border-radius: 5px;
+}
